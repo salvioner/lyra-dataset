@@ -1,0 +1,40 @@
+{'album': u'Death to False Metal', 'generi': [u'Alternative rock', u'[1]', u'Pop punk'], 'titolo': u'Autopilot', 'artista': u'Weezer'}
+
+When I wake at the break of the morning
+I ingest my two fried eggs
+If a grain of the salt is missing
+Then I go to the store and beg
+
+
+Yeah, yeah, I've got to get off
+
+Yeah, yeah, it's pissin' me off
+
+When I walk to the park with my doggies
+I collect all the things they leave
+Then I put them up under the microscope
+And I'm so impressed by what I see
+
+
+Yeah, yeah, I've got to get off
+
+Yeah, yeah, it's pissin' me off
+
+
+
+
+
+
+10 INPUT "What is your name?"
+20 PRINT "Hello"
+30 REM
+40 INPUT "How much cash do you want?"
+50 FOR I = 1 TO N
+60 PRINT S$ & REM
+70 INPUT "go to the end"
+
+
+
+Yeah, yeah, I've got to get off
+
+Yeah, yeah, it's pissin' me off

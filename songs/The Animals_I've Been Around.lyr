@@ -1,0 +1,18 @@
+{'album': u'The Animals', 'generi': [u'Blues rock'], 'titolo': u"I've Been Around", 'artista': u'The Animals'}
+
+I've been around the world, it's true
+/* ERROR - invalid character */
+I finally found a love that's true
+
+You heard my story, you heard just what I said
+/* ERROR - invalid character */
+Finally found a love that's true, oh, oh, oh, oh...
+
+/* ERROR - invalid character */
+/* ERROR - invalid character */
+And finally found a love that true
+
+I've been around the world, it's true
+/* ERROR - invalid character */
+And finally found a love that's true
+And finally found a love that's true
